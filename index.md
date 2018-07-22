@@ -5,5 +5,6 @@
 </p>
 
 <p align="center"> 
-  <font size="6"><a href="https://msmorgansbeautyemporium.as.me">Make a Booking</a></></font>
+
+  <font size="5"><a href="https://msmorgansbeautyemporium.as.me">Make a Booking</a></font>
 </p>
