@@ -1,7 +1,8 @@
 
 
 <p align="center"> 
-![MsMorgansBeautyEmporium](logo.png)
+  <img src="logo.png">
 
-[Make a Booking](https://msmorgansbeautyemporium.as.me) 
+  <a href="https://msmorgansbeautyemporium.as.me">Make a Booking</a>
+
 </p>
