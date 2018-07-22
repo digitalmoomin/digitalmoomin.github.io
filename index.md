@@ -1,10 +1,8 @@
 
-
-<div>
-   <center>
-    <img src="logo.png">
-    <a href="https://msmorgansbeautyemporium.as.me">Make a Booking</a>
-  </center>
-</div>
   
+<p align="center"> 
+   <img src="logo.png">
+</p>
+
+<a href="https://msmorgansbeautyemporium.as.me">Make a Booking</a>
 
