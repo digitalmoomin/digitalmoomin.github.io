@@ -4,5 +4,6 @@
    <img src="logo.png">
 </p>
 
-<a href="https://msmorgansbeautyemporium.as.me">Make a Booking</a>
-
+<p align="center"> 
+  <a href="https://msmorgansbeautyemporium.as.me">Make a Booking</a>
+</p>
