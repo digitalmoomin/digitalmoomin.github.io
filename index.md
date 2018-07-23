@@ -12,11 +12,13 @@
      07535 697733 <br>
     <a href="https://msmorgansbeautyemporium.as.me">Make an Online Booking</a><br>
   </font>
-  
-    <font size="3">
+</p>
+
+ <p align="center">
+   <font size="3">
     <a href="https://www.facebook.com/msmorgansbeautyemporium">Like Us</a>
   </font>
+ </p> 
   
   
-  
-</p>
+
