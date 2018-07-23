@@ -15,10 +15,17 @@
 </p>
 
  <p align="center">
-   <font size="3">
+   <font size="3" color="black">
     <a href="https://www.facebook.com/msmorgansbeautyemporium">Like Us</a>
-  </font>
- </p> 
+     
+   </p> 
+     <p>Click on image  
+    <a href="https://www.facebook.com/msmorgansbeautyemporium">
+    <img src="fb.png" alt="FaceBook" height="168" width="100">
+    </a>
+    </p>
+   </font>
+ 
   
   
 
