@@ -14,15 +14,15 @@
   </font>
 </p>
 
- <p align="center">
+ <!--<p align="center">
    <font size="3" color="black">
     <a href="https://www.facebook.com/msmorgansbeautyemporium">Like Us</a>
     </font> 
-  </p> 
+  </p>--> 
   
   <p align="center">
     <a href="https://www.facebook.com/msmorgansbeautyemporium">
-    <img src="fb.png" alt="FaceBook" height="50" width="50">
+    <img src="fb.png" alt="FaceBook" height="50" width="70">
     </a>
    </p>
    
