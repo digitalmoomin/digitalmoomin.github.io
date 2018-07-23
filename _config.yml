@@ -1,3 +1,4 @@
 title: Ms Morgans Beauty Emporium
 theme: jekyll-theme-tactile
-
+plugins:
+  - jekyll-seo-tag
