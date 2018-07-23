@@ -14,11 +14,6 @@
   </font>
 </p>
 
- <!--<p align="center">
-   <font size="3" color="black">
-    <a href="https://www.facebook.com/msmorgansbeautyemporium">Like Us</a>
-    </font> 
-  </p>--> 
   
   <p align="center">
     <a href="https://www.facebook.com/msmorgansbeautyemporium">
