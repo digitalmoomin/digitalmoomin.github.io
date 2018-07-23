@@ -3,3 +3,5 @@ description: Ms Morgans Beauty Emporium, Belfast
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-seo-tag
+facebook:
+  publisher: https://www.facebook.com/msmorgansbeautyemporium
