@@ -42,7 +42,7 @@
  </colgroup>
  <tr>
  	<th>  <p align="center"> 
-    <img src="tratment.jpg">
+    <img src="treatment.jpg">
   </p></th>
  	<th></th>
  	<th></th>
