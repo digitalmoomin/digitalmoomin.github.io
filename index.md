@@ -52,7 +52,7 @@
 	 
  <td>
 		Spray Tan<br>
-		Make-Up Application
+		Make-Up Application <br>
 		Aromatheraphy Massage <br>
 		Thai Foot Massage <br>
 		Reiki<br>
