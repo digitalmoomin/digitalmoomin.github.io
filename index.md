@@ -41,7 +41,9 @@
  	<col class="column3" />
  </colgroup>
  <tr>
- 	<th></th>
+ 	<th>  <p align="center"> 
+    <img src="tratment.jpg">
+  </p></th>
  	<th></th>
  	<th></th>
  </tr>
