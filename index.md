@@ -26,11 +26,6 @@
    
  </div>
  
- 
- 
-
-
-
 <div>
 
 		
@@ -40,13 +35,6 @@
  	<col class="column2" />
  	<col class="column3" />
  </colgroup>
- <tr>
- 	<th>  <p align="center"> 
-    <img src="treatment.jpg">
-  </p></th>
- 	<th></th>
- 	<th></th>
- </tr>
  <tr>
  	<td>
 		Semi Permanent Make-Up <br>
@@ -76,8 +64,15 @@
  </tr>
 </table>	
 	
-
 </div>
+
+
+<div>
+  <p align="center"> 
+    <img src="treatment.jpg"> <img src="nails.jpg">
+  </p>
+</div>	
+
 
 
 
