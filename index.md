@@ -21,7 +21,7 @@
 	</a>
    
    <a href="https://www.facebook.com/msmorgansbeautyemporium">
-      <img src="Instagram.png" alt="instagram" height="50" width="50">	    
+      <img src="Instagram.png" alt="instagram" height="40" width="40">	    
     </a>
    </p>
  </div>
