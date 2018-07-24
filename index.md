@@ -34,7 +34,6 @@
  <colgroup>
  	<col class="column1" />
  	<col class="column2" />
- 	<col class="column3" />
  </colgroup>
  <tr>
  	<td>
@@ -43,15 +42,13 @@
 		Modo Brows<br>
 		Lash Lifts<br>
 		Semi Permanent Lashes <br>
-	</td>
- 	
- <td>
 		Waxing<br>
 		Gel Nails<br>
 		Gel and Acrylic Extensions<br>
 		Spray Tan<br>
 		Make-Up Application
-</td>
+	</td>
+ 	
 	 
  <td>
 		Aromatheraphy Massage <br>
