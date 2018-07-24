@@ -71,24 +71,28 @@
 <div class="wrapper">
 
 		
-<section class="columns">
-	
- <div class="column">
-		<h2>1st Content Area</h2>
-		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi ratione architecto necessitatibus cum praesentium dolor totam voluptatibus recusandae?</p>
-	</div>
-	
- <div class="column">
-		<h2>2nd Content Area</h2>
-		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi ratione architecto necessitatibus cum praesentium dolor totam voluptatibus recusandae? Illo quod nemo ratione itaque dolores laudantium error vero laborum blanditiis nostrum.</p>
-	</div>
-  
-  <div class="column">
-		<h2>3rd Content Area</h2>
-		<p>Illo quod nemo ratione itaque dolores laudantium error vero laborum blanditiis nostrum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi ratione architecto cum praesentium voluptatibus recusandae?</p>
-	</div>
-	
-</section>	
+<table>
+ <colgroup>
+ <col class="column1" />
+ <col class="column2" />
+ <col class="column3-4" span="2" />
+
+ </colgroup>
+ <tr>
+ <th>dog</th>
+ <th>cat</th>
+ <th>horse</th>
+
+ <th>iguana</th>
+ </tr>
+ <tr>
+ <td>5</td>
+ <td>2</td>
+
+ <td>10</td>
+ <td>500</td>
+ </tr>
+</table>	
 	
 
 </div>
