@@ -7,6 +7,11 @@
     <font size="5">
       83-83a Newton Park, Castlereagh, Belfast BT8 6FQ <br>
       028 9079 6111<br>
+    &nbsp <a href="https://www.facebook.com/msmorgansbeautyemporium">
+      <img src="fb.png" alt="FaceBook" height="40" width="40">
+    &nbsp <a href="https://www.instagram.com/ms_morgans_beauty_emporium">
+      <img src="Instagram.png" alt="instagram" height="40" width="40">	    
+    </a>	    
     </font> 
   </p>
   
