@@ -41,23 +41,34 @@
  	<col class="column3" />
  </colgroup>
  <tr>
- 	<th>image 1</th>
- 	<th>image 2</th>
- 	<th>image 3</th>
+ 	<th>1</th>
+ 	<th>2</th>
+ 	<th>3</th>
  </tr>
  <tr>
  	<td>
-	Semi Permanent Make-Up <br>	
+		Semi Permanent Make-Up <br>
+		Piercing<br>
+		Modo Brows<br>
+		Lash Lifts<br>
+		Semi Permanent Lashes <br>
 	</td>
  	
  <td>
-		Piercing <br> 
-	</td>
+		Waxing<br>
+		Gel Nails<br>
+		Gel and Acrylic Extensions<br>
+		Spray Tan<br>
+		Make-Up Application
+</td>
 	 
  <td>
 		Aromatheraphy Massage <br>
 		Thai Foot Massage <br>
-		Warm Bamboo Massage 
+		Warm Bamboo Massage <br>
+		Reiki<br>
+		Facials<br>
+		Microdermabrasion<br>	
 	</td>
 
  </tr>
