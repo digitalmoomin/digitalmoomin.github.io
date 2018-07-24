@@ -41,9 +41,9 @@
  	<col class="column3" />
  </colgroup>
  <tr>
- 	<th>1</th>
- 	<th>2</th>
- 	<th>3</th>
+ 	<th></th>
+ 	<th></th>
+ 	<th></th>
  </tr>
  <tr>
  	<td>
