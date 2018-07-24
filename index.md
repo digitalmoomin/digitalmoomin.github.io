@@ -37,60 +37,37 @@
  
  
 
-<div class="columns">
-    <div class="1">
-         <p align="center">
-    <font size="3">
-        Semi Permanent Make-Up <br>
-        Piercing Waxing Reiki <br>
-        Aromatheraphy/Thai Foot/Warm Bamboo Massage 
-     </font>  
-   </p>
-    </div>
-    <div class="2">
-         <p align="center">
-    <font size="3">
-        Semi Permanent Make-Up <br>
-        Piercing Waxing Reiki <br>
-        Aromatheraphy/Thai Foot/Warm Bamboo Massage 
-     </font>  
-   </p>
-    </div>
-    <div class="3" >
-         <p align="center">
-    <font size="3">
-        Semi Permanent Make-Up <br>
-        Piercing Waxing Reiki <br>
-        Aromatheraphy/Thai Foot/Warm Bamboo Massage 
-     </font>  
-   </p>
-  </div>
-</div>
-<div class="clear"></div>
 
-<div class="wrapper">
+
+<div>
 
 		
 <table>
  <colgroup>
- <col class="column1" />
- <col class="column2" />
- <col class="column3-4" span="2" />
-
+ 	<col class="column1" />
+ 	<col class="column2" />
+ 	<col class="column3" />
  </colgroup>
  <tr>
- <th>dog</th>
- <th>cat</th>
- <th>horse</th>
-
- <th>iguana</th>
+ 	<th>image 1</th>
+ 	<th>image 2</th>
+ 	<th>image 3</th>
  </tr>
  <tr>
- <td>5</td>
- <td>2</td>
+ 	<td>
+	Semi Permanent Make-Up <br>	
+	</td>
+ 	
+ <td>
+		Piercing <br> 
+	</td>
+	 
+ <td>
+		Aromatheraphy Massage <br>
+		Thai Foot Massage <br>
+		Warm Bamboo Massage 
+	</td>
 
- <td>10</td>
- <td>500</td>
  </tr>
 </table>	
 	
