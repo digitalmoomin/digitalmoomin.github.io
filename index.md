@@ -7,7 +7,10 @@
     <font size="5">
       83-83a Newton Park, Castlereagh, Belfast BT8 6FQ <br>
       028 9079 6111<br>
-      Semi Permanent Make-Up  Piercing  Waxing  Aromatheraphy   Reiki
+    </font>
+      <font size="3">
+        Semi Permanent Make-Up  Piercing  Waxing  Reiki </br>
+        Aromatheraphy/Thai Foot/Warm Bamboo Massage   
     </font>
   </p>
   
