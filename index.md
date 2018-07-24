@@ -69,6 +69,17 @@
 <div class="clear"></div>
 
 
+
+<div class="columns">
+    <div class="red" >Column 1</div>
+    <div class="grey">Column 2</div>
+    <div class="red" >Column 3</div>
+</div>
+<div class="clear"></div>
+
+
+
+
  
   
   
