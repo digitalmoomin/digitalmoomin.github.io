@@ -56,7 +56,6 @@
  <td>
 		Aromatheraphy Massage <br>
 		Thai Foot Massage <br>
-		Warm Bamboo Massage <br>
 		Reiki<br>
 		Facials<br>
 		Microdermabrasion<br>	
