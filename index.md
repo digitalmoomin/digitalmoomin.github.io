@@ -7,7 +7,10 @@
     <font size="5">
       83-83a Newton Park, Castlereagh, Belfast BT8 6FQ <br>
       028 9079 6111<br>
-      Semi Permanent Make-Up  Piercing  Waxing  Aromatheraphy   Reiki </br>  
+      Semi Permanent Make-Up  Piercing  Waxing  Aromatheraphy   Reiki
+  </p>
+  
+  <font size="5">
       <a href="https://msmorgansbeautyemporium.as.me">Make an Online Booking</a><br>
     </font>
   </p>
