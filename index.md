@@ -38,9 +38,33 @@
  
 
 <div class="columns">
-    <div class="red" >Column 1</div>
-    <div class="grey">Column 2</div>
-    <div class="red" >Column 3</div>
+    <div class="1">
+         <p align="center">
+    <font size="3">
+        Semi Permanent Make-Up <br>
+        Piercing Waxing Reiki <br>
+        Aromatheraphy/Thai Foot/Warm Bamboo Massage 
+     </font>  
+   </p>
+    </div>
+    <div class="2">
+         <p align="center">
+    <font size="3">
+        Semi Permanent Make-Up <br>
+        Piercing Waxing Reiki <br>
+        Aromatheraphy/Thai Foot/Warm Bamboo Massage 
+     </font>  
+   </p>
+    </div>
+    <div class="3" >
+         <p align="center">
+    <font size="3">
+        Semi Permanent Make-Up <br>
+        Piercing Waxing Reiki <br>
+        Aromatheraphy/Thai Foot/Warm Bamboo Massage 
+     </font>  
+   </p>
+  </div>
 </div>
 <div class="clear"></div>
 
