@@ -23,8 +23,8 @@
    </p>
    
    
-    <p align="center">
-     <font size="3">
+   <p align="center">
+    <font size="3">
         Semi Permanent Make-Up <br>
         Piercing Waxing Reiki <br>
         Aromatheraphy/Thai Foot/Warm Bamboo Massage 
