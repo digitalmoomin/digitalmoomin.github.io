@@ -9,9 +9,9 @@
       028 9079 6111<br>
     </font>
       <font size="3">
-        Semi Permanent Make-Up  Piercing  Waxing  Reiki </br>
-        Aromatheraphy/Thai Foot/Warm Bamboo Massage   
-    </font>
+        Semi Permanent Make-Up  Piercing  Waxing  Reiki </font></br>
+        <font size="3">Aromatheraphy/Thai Foot/Warm Bamboo Massage </font>   
+    
   </p>
   
    <p align="center">
