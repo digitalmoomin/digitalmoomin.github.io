@@ -21,9 +21,6 @@
       <img src="fb.png" alt="FaceBook" height="50" width="70">
     </a>
    </p>
-   
-  
-   
  </div>
  
 <div>
@@ -69,7 +66,9 @@
 
 <div>
   <p align="center"> 
-    <img src="treatment.jpg"> <img src="nails.jpg">
+    	<img src="treatment.jpg"><br>
+	<img src="nails.jpg"><br>
+	<img src="antlers.jpg"><br>  
   </p>
 </div>	
 
