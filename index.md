@@ -29,7 +29,7 @@
  
 <div>
 
-<font size="7">		
+<font size="5">		
 <table>
  <colgroup>
  	<col class="column1" />
