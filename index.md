@@ -42,18 +42,17 @@
 		Modo Brows<br>
 		Lash Lifts<br>
 		Semi Permanent Lashes <br>
-</td>
-	
-<td>
 		Waxing<br>
 		Gel Nails<br>
 		Gel and Acrylic Extensions<br>
-		Spray Tan<br>
-		Make-Up Application
-	</td>
+</td>
+	
+
  	
 	 
  <td>
+		Spray Tan<br>
+		Make-Up Application
 		Aromatheraphy Massage <br>
 		Thai Foot Massage <br>
 		Reiki<br>
