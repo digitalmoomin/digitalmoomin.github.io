@@ -29,7 +29,7 @@
  
 <div>
 
-		
+<font size="7">		
 <table>
  <colgroup>
  	<col class="column1" />
@@ -42,6 +42,9 @@
 		Modo Brows<br>
 		Lash Lifts<br>
 		Semi Permanent Lashes <br>
+</td>
+	
+<td>
 		Waxing<br>
 		Gel Nails<br>
 		Gel and Acrylic Extensions<br>
@@ -60,7 +63,7 @@
 
  </tr>
 </table>	
-	
+</font>	
 </div>
 
 
