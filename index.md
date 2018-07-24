@@ -20,7 +20,7 @@
       <img src="fb.png" alt="FaceBook" height="50" width="70">
 	</a>
    
-   <a href="https://www.facebook.com/msmorgansbeautyemporium">
+   <a href="https://www.instagram.com/ms_morgans_beauty_emporium">
       <img src="Instagram.png" alt="instagram" height="40" width="40">	    
     </a>
    </p>
